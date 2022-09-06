@@ -1,0 +1,9 @@
+Chosen generation parameters:
+
+Both 1,5- and 1,4-isomers are generated.
+Products for internal alkynes are kept.
+Molecules are filtered according to Lipinski rules: 
+-logP.
+LogBB Clark will be calculated.
+Molecules with logBB  less than -10.0 will be dropped.
+An output file will be saved in .txt format.
