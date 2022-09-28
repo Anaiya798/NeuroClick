@@ -1,0 +1,61 @@
+Checking azide molecules...
+
+Found 4 records.
+
+
+====
+Finished loading!
+Time: 00:00:00.
+Successfully loaded 4 azides (100.0%).
+Following molecules were dropped out:
+0 records contained damaged smiles (0.0%).
+0 molecules contained no azide moiety (0.0%).
+0 molecules contained both alkyne and azide moiety (0.0%).
+0 azides consist of multiple molecules (0.0%).
+0 azides contain too many azide moieties (0.0%).
+
+
+Checking alkyne molecules...
+
+Found 4 records.
+Warning: molecule COC(=O)c1ccc(C#CC2CCNCC2)cc1 contains internal alkyne.
+
+
+====
+Finished loading!
+Time: 00:00:00.
+Warning: found 1 internal alkynes (25.0%).Additional handling specification required.
+Successfully loaded 4 alkynes (100.0%).
+Following molecules were dropped out:
+0 records contained damaged smiles (0.0%).
+0 molecules contained no alkyne moiety (0.0%).
+0 molecules contained both alkyne and azide moiety (0.0%).
+0 alkynes consist of multiple molecules (0.0%).
+0 alkynes contain too many alkyne moieties (0.0%).
+
+
+Chosen generation parameters:
+
+Both 1,5- and 1,4-isomers are generated.
+Products for internal alkynes are kept.
+Molecules are filtered according to Lipinski rules: 
+-None.
+LogBB Clark will be calculated.
+Molecules with logBB  less than -10.0 will be dropped.
+An output file will be saved in .txt format.
+
+
+Starting library generation...
+
+
+====
+Finished library generation!
+Time: 00:00:00.
+32 compounds were generated from 4 alkynes and 4 azides.
+12 1,4-isomers and 12 1,5-isomers.
+Warning: 8 molecules of 32 were generated from internal alkynes and could not be assigned 1,4/1,5 isomery.
+Failed to construct 0 molecules.
+32 molecules passed Lipinski filter (100.0% of generated).
+32 molecules passed logBB filter (100.0% of generated, 100.0% of Lipinski filtered).
+
+

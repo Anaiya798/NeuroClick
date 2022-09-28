@@ -1,0 +1,4 @@
+COC(=O)c1ccc(C#CC2CCNCC2)cc1
+C#CC(N)C(=O)NCCOCCOCC(=O)O
+C#CCCOCCC(=O)OC(C)(C)C
+C#CCOc1ccc(-n2c(=O)[nH][nH]c2=O)cc1
