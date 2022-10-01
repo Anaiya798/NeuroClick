@@ -1,6 +1,6 @@
 # NeuroClick
 Software for *in silico* click reaction synthesis and prediction of drug-like molecules permeating the blood-brain barrier.  
-Last update: 28.09.2022  
+Last update: 28.09.2022.  
 Version 1.1: an old release, was up-to-date when our team sent an article to Journal of Cheminformatics, August 2022.  
 Version 1.2 (recommended): a new release where the key feature is multithreading, so the app can be running in the background mode.  
 
