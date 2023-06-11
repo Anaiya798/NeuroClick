@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/Users/aleksandrkovalenko",
+  "password": false,
+  "pid": 11018,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "f49d40b61284948e3281ea458758aa93fbab31982083827e",
+  "url": "http://localhost:8888/"
+}

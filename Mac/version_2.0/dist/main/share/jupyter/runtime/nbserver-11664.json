@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/Users/aleksandrkovalenko/.jupyter",
+  "password": false,
+  "pid": 11664,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "87f0b39f7ac22d3e6634df0a44aa3fccc113a6f0cc0843c6",
+  "url": "http://localhost:8888/"
+}
