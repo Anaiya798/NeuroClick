@@ -1,4 +1,0 @@
-[N-]=[N+]=NC(=O)c1ccccc1
-[N-]=[N+]=NC(=O)c1c[nH]c2ccccc12
-COC(=O)[C@@H](N=[N+]=[N-])[C@H](NC(C)=O)C(=O)OC
-CCOC(=O)C(CC=C(C)C)CCCN=[N+]=[N-]
